@@ -38,8 +38,8 @@ Lấy dữ liệu lịch sử giá Bitcoin trong khoảng thời gian từ ngày
 ## Cách Thực Hiện:
 Dữ liệu được lấy từ API `https://history.btc123.fans/api.php`, với các tham số:
 - `symbol=bitcoin`
-- `start=2023-01-01`
-- `end=2023-12-31`
+- `start= 2 năm trước'
+- `end=  kết thúc hôm qua'
 
 ## Dữ Liệu Trả Về:
 Dữ liệu trả về bao gồm:
