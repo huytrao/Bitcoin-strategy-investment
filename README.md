@@ -1,4 +1,5 @@
-# Bitcoin-strategy-investment
+# Bitcoin-strategy-investment v1
+https://bitcoin-strategy-investment-college-student-v1.streamlit.app
 Mặc dù tuần này cực kì bận nhưng mà vẫn cố làm cái project này do tự nhiên hôm nay có hứng.
 * câu chuyện là lúc trước có học môn thống kê có mấy cái câu kiểm định  rồi trong đầu tự đặt câu hỏi là nếu giá bitcoin luôn tăng sau 10 năm * có nghĩa là mình không cần làm gì chỉ cần mua bitcoin rồi bán ra ! rồi lời được 1 đống?
 rồi tui tự hỏi là xã hội có hoạt động như thế không?, có phải người ta không cần làm 8 tiếng thì vẫn hốt được 1 đống không? -> thì câu trả lời là " có " bởi vì:
