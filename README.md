@@ -1,18 +1,5 @@
 # Bitcoin-strategy-investment v1
-https://bitcoin-strategy-investment-college-student-v1.streamlit.app
-Mặc dù tuần này cực kì bận nhưng mà vẫn cố làm cái project này do tự nhiên hôm nay có hứng.
-* câu chuyện là lúc trước có học môn thống kê có mấy cái câu kiểm định  rồi trong đầu tự đặt câu hỏi là nếu giá bitcoin luôn tăng sau 10 năm * có nghĩa là mình không cần làm gì chỉ cần mua bitcoin rồi bán ra ! rồi lời được 1 đống?
-rồi tui tự hỏi là xã hội có hoạt động như thế không?, có phải người ta không cần làm 8 tiếng thì vẫn hốt được 1 đống không? -> thì câu trả lời là " có " bởi vì:
-1. tiền mà không để trong ngân hàng thì để vào đâu ( nhà, đất, chứng khoáng, coin, hoặc đầu tư kinh doanh chứ ở đâu nữa.)?
-2. bản chất đồng tiền việt nam đã yếu mà còn hay bị mất giá thay vì đổi sang USD thì đổi sang BTC vừa tránh lạm phát giá tiền vừa tránh lạm phát giá nhà.
-3. luật về bitcoin hay các loại coin chưa có chặt.
-4. Chính phủ mỹ nghe nói tích trữ rất nhiều bitcoin nên bitcoin thực sự giống như vàng?.
-5. tại sao các công ty tài chính lại rất giàu?
-Về nhược điểm thì tui cũng có suy nghĩ một chút về nhược điểm.
-1. nếu ngon ăn vậy thì tại sao lại đến lượt mình?
-2. nếu thế giới bị cụp internet toàn cầu thì sao?
-3. giao dịch có gặp trắc trở gì không?
-4. đang suy nghĩ thêm?
+
 ### Mục tiêu
 thì tui có đưa ra các mục tiêu như sau:
 1. không cần suy nghĩ về việc đưa ra các quyết định mua hay bán, việc mua hay bán hoàn toàn phụ thuộc vào chương trình.
