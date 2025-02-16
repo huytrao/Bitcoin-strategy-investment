@@ -75,22 +75,22 @@ Thuật toán tính toán xác suất bằng cách so sánh giá đóng cửa c�
 ## Tính Toán `prob_yes` cho Ngày Hôm Qua:
 
 ### Ý Tưởng:
-`prob_yes` là xác suất cho thấy giá của Bitcoin trong ngày hôm qua so với giá cao nhất trong 14 ngày trước đó.
+`prob_current` là xác suất cho thấy giá của Bitcoin trong ngày hôm qua so với giá cao nhất trong 14 ngày trước đó.
 
 ### Quy Trình:
 1. Lấy giá của 14 ngày cuối cùng và tính toán giá cao nhất trong số đó.
-2. Tính toán xác suất `prob_yes` bằng cách chia giá của ngày hôm qua cho giá cao nhất trong 14 ngày trước đó.
+2. Tính toán xác suất `prob_current` bằng cách chia giá của ngày hôm qua cho giá cao nhất trong 14 ngày trước đó.
 
 ## Khuyến Nghị:
 
 ### Ý Tưởng:
-So sánh giá trị `prob_yes` với giá trị `x`. Nếu `prob_yes` nhỏ hơn `x`, khuyến nghị mua Bitcoin; nếu không, khuyến nghị không mua.
+So sánh giá trị `prob_current` với giá trị `x`. Nếu `prob_current` nhỏ hơn `x`, khuyến nghị mua Bitcoin; nếu không, khuyến nghị không mua.
 
 ### Quy Trình:
-1. Nếu `prob_yes` nhỏ hơn `x`, tức là giá Bitcoin hôm nay có thể sẽ thấp hơn mức cao nhất trong 14 ngày qua và có thể tăng, khuyến nghị mua.
-2. Nếu `prob_yes` lớn hơn hoặc bằng `x`, tức là giá Bitcoin hôm nay không có dấu hiệu giảm mạnh, khuyến nghị không mua.
+1. Nếu `prob_current` nhỏ hơn `x`, tức là giá Bitcoin hôm nay có thể sẽ thấp hơn mức cao nhất trong 14 ngày qua và có thể tăng, khuyến nghị mua.
+2. Nếu `prob_current` lớn hơn hoặc bằng `x`, tức là giá Bitcoin hôm nay không có dấu hiệu giảm mạnh, khuyến nghị không mua.
 
 ## Kết Luận:
-Dựa trên phân tích trên, bạn có thể đưa ra quyết định về việc có nên mua Bitcoin hay không, dựa vào các chỉ số xác suất và các ngưỡng tính toán được.
+Dựa trên phân tích trên, để đưa ra quyết định về việc có nên mua Bitcoin bằng USDT nếu đạt dưới threshold x  hay không, dựa vào các chỉ số xác suất và các ngưỡng tính toán được Sử dụng bullet API Key để xữ lí tự động thông báo khi đạt ngưỡng. .
 
 
